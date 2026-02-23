@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.temp
+.cache/
+
+# Logs
+*.log
+
+# Node (if using any JS tooling)
+node_modules/
+npm-debug.log*
+
+# Python (if using any Python tooling)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+
+# Testing
+.coverage
+htmlcov/
+
+# User-specific files
+*.local
+*.private
