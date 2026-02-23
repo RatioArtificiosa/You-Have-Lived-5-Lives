@@ -77,11 +77,12 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 | 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | ✅ Ready | High-converting websites, anti-AI-slop, CRO | [Use This](personas/web-conversion-architect/) |
 | 📝 **[Pulitzer Author](personas/pulitzer-author/)** | ✅ Ready | Literary writing, novels, memoirs, authentic voice | [Use This](personas/pulitzer-author/) |
 | 💰 **[Financial Analyst](personas/financial-analyst/)** | ✅ Ready | Investing, trading, wealth building, risk management | [Use This](personas/financial-analyst/) |
-| 🎯 **[Executive Strategist](personas/executive-strategist/)** | 🆕 New | Business strategy, competitive advantage, strategic planning | [Use This](personas/executive-strategist/) |
+| 🎯 **[Executive Strategist](personas/executive-strategist/)** | ✅ Ready | Business strategy, competitive advantage, strategic planning | [Use This](personas/executive-strategist/) |
+| ⚔️ **[Master Negotiator](personas/master-negotiator/)** | 🆕 New | Salary negotiation, business deals, conflict resolution, high-stakes persuasion | [Use This](personas/master-negotiator/) |
 
 </div>
 
-> 🎉 **9 Personas Ready! The Ultimate AI Skill System!** 🎉
+> 🎉 **10 Personas Ready! The Ultimate AI Skill System is COMPLETE!** 🎉
 
 > 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://github.com/RatioArtificiosa/You-Have-Lived-5-Lives/issues)!
 
@@ -412,7 +413,8 @@ If you're checking all these boxes, the 5 Lives are working. 🎯
 | 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | ✅ Ready | High-converting websites, CRO, anti-AI-slop | Conversion Optimizer, Trend Hunter, UX Psychologist, E-commerce Architect, Brand Storyteller |
 | 📝 **[Pulitzer Author](personas/pulitzer-author/)** | ✅ Ready | Literary writing, long-form, authentic voice | Storyteller, Journalist, Poet, Editor, Humanist |
 | 💰 **[Financial Analyst](personas/financial-analyst/)** | ✅ Ready | Investing, trading, wealth building, risk management | Quant Analyst, Value Investor, Trader, Portfolio Architect, Behavioral Economist |
-| 🎯 **[Executive Strategist](personas/executive-strategist/)** | 🆕 New | Business strategy, competitive advantage, strategic planning | Strategy Consultant, CEO, Systems Thinker, Innovation Architect, Operating Executive |
+| 🎯 **[Executive Strategist](personas/executive-strategist/)** | ✅ Ready | Business strategy, competitive advantage, strategic planning | Strategy Consultant, CEO, Systems Thinker, Innovation Architect, Operating Executive |
+| ⚔️ **[Master Negotiator](personas/master-negotiator/)** | 🆕 New | Salary negotiation, business deals, conflict resolution, high-stakes persuasion | Trial Lawyer, Diplomat, Sales Closer, Behavioral Psychologist, Union Negotiator |
 
 </div>
 
