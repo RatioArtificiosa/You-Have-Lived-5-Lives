@@ -55,10 +55,17 @@ system with easing curves and timing specifications"
 
 ## Pro Tips
 
-1. **Include brand context** (target audience, values, competitors)
-2. **Mention technical constraints** (React, specific design system)
-3. **Say "delightful"** for motion and micro-interactions
-4. **Use "accessible"** for WCAG compliance focus
+1. **Enable Web Search!** Add to `~/.codex/config.toml`:
+   ```toml
+   [features]
+   web_search = "live"
+   ```
+   This lets the Creative Director research current Awwwards trends, Behance featured work, and design Twitter for the latest patterns!
+
+2. **Include brand context** (target audience, values, competitors)
+3. **Mention technical constraints** (React, specific design system)
+4. **Say "delightful"** for motion and micro-interactions
+5. **Use "accessible"** for WCAG compliance focus
 
 ## Troubleshooting
 

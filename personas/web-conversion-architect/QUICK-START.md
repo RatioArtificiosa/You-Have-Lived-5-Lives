@@ -56,11 +56,23 @@ competitor analysis and conversion best practices"
 
 ## Pro Tips
 
-1. **Mention your industry/niche** for targeted research
-2. **Include competitor names** for analysis
-3. **Say "conversion-optimized"** for CRO focus
-4. **Use "mobile-first"** for thumb-optimized design
-5. **Add "accessible"** for WCAG compliance
+1. **🔥 ENABLE WEB SEARCH! (CRITICAL)** Add to `~/.codex/config.toml`:
+   ```toml
+   [features]
+   web_search = "live"
+   ```
+   This allows the Web Conversion Architect to:
+   - Research current Awwwards winners in your industry
+   - Analyze competitor websites in real-time
+   - Find trending design patterns and color schemes
+   - Study top-performing Shopify stores
+   Without web search, you get outdated designs. With it, you get cutting-edge conversion machines!
+
+2. **Mention your industry/niche** for targeted research
+3. **Include competitor names** for analysis
+4. **Say "conversion-optimized"** for CRO focus
+5. **Use "mobile-first"** for thumb-optimized design
+6. **Add "accessible"** for WCAG compliance
 
 ## Troubleshooting
 

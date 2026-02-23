@@ -145,6 +145,28 @@ codex --yolo --system-prompt .agent/system-prompt.md \
   "Using an ExecPlan with milestones, refactor the entire API layer"
 ```
 
+### Enable Web Search (CRITICAL for Best Results!)
+
+To allow your AI to research current trends, best practices, and competitor analysis, **enable web search** in your Codex config:
+
+Edit `~/.codex/config.toml` and add:
+
+```toml
+[features]
+web_search = "live"  # Enables real-time web research
+```
+
+**Why this matters:**
+- 🌐 The Marketing Pro can research current SEO trends
+- 🎨 The Creative Director can analyze Awwwards winners
+- 🎯 The Web Conversion Architect can study competitor sites
+- 📊 The Data Scientist can find latest ML techniques
+- 🔧 All personas benefit from up-to-date knowledge
+
+Without web search, your AI works with outdated training data. With it, you get real-time intelligence!
+
+---
+
 ### For Non-Codex AI (Kimi, Claude, etc.)
 ```bash
 # Kimi Code CLI

@@ -55,10 +55,17 @@ flows: onboarding, activation, retention, win-back"
 
 ## Pro Tips
 
-1. **Include budget** when discussing paid acquisition
-2. **Mention target audience** for better positioning
-3. **Say "data-driven"** for analytics and measurement
-4. **Use "viral"** for growth hacking mechanics
+1. **Enable Web Search!** Add to `~/.codex/config.toml`:
+   ```toml
+   [features]
+   web_search = "live"
+   ```
+   This lets the Marketing Pro research current trends, competitor campaigns, and platform best practices!
+
+2. **Include budget** when discussing paid acquisition
+3. **Mention target audience** for better positioning
+4. **Say "data-driven"** for analytics and measurement
+5. **Use "viral"** for growth hacking mechanics
 
 ## Troubleshooting
 
