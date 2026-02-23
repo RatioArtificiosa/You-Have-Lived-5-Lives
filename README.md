@@ -72,7 +72,7 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 | 🔧 **[Software Engineer](personas/software-engineer/)** | ✅ Ready | Full-stack development, architecture, scaling | [Use This](personas/software-engineer/) |
 | 📈 **[Marketing Pro](personas/marketing-pro/)** | 🆕 New | Growth, SEO, content, paid acquisition | [Use This](personas/marketing-pro/) |
 | 🎨 **[Creative Director](personas/creative-director/)** | ✅ Ready | Design systems, brand identity, motion, creative tech | [Use This](personas/creative-director/) |
-| 📊 **Data Scientist** | 🚧 Coming | ML pipelines, analytics, data architecture | [Notify Me](#) |
+| 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML, analytics, predictions, ethics, production | [Use This](personas/data-scientist/) |
 | 🔒 **Cybersecurity Expert** | 🚧 Coming | Security, compliance, threat modeling | [Notify Me](#) |
 
 </div>
