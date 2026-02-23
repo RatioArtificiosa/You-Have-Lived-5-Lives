@@ -70,11 +70,11 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 | Persona | Status | Description | Quick Start |
 |:-------:|:------:|:------------|:-----------:|
 | 🔧 **[Software Engineer](personas/software-engineer/)** | ✅ Ready | Full-stack development, architecture, scaling | [Use This](personas/software-engineer/) |
-| 📈 **[Marketing Pro](personas/marketing-pro/)** | 🆕 New | Growth, SEO, content, paid acquisition | [Use This](personas/marketing-pro/) |
+| 📈 **[Marketing Pro](personas/marketing-pro/)** | ✅ Ready | Growth, SEO, content, paid acquisition | [Use This](personas/marketing-pro/) |
 | 🎨 **[Creative Director](personas/creative-director/)** | ✅ Ready | Design systems, brand identity, motion, creative tech | [Use This](personas/creative-director/) |
 | 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML, analytics, predictions, ethics, production | [Use This](personas/data-scientist/) |
 | 🔒 **[Cybersecurity Expert](personas/cybersecurity-expert/)** | ✅ Ready | Defense in depth, zero trust, compliance, DFIR | [Use This](personas/cybersecurity-expert/) |
-| 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | 🆕 New | High-converting websites, anti-AI-slop, CRO | [Use This](personas/web-conversion-architect/) |
+| 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | ✅ Ready | High-converting websites, anti-AI-slop, CRO | [Use This](personas/web-conversion-architect/) |
 
 </div>
 
@@ -373,18 +373,18 @@ If you're checking all these boxes, the 5 Lives are working. 🎯
 
 ---
 
-## 🎁 Available & Upcoming Personas
+## 🎁 All 6 Personas Are Ready!
 
 <div align="center">
 
 | Persona | Status | Best For | Lives Include |
 |---------|:------:|----------|---------------|
-| 🔧 **Software Engineer** | ✅ Ready | Full-stack, system architecture, scaling | Founding Eng, Principal Arch, Growth Eng, Revenue Lead, Hacker-Disruptor |
-| 📈 **Marketing Pro** | 🚧 Coming Soon | Growth hacking, SEO, performance marketing, content | Growth Hacker, Brand Strategist, Performance Marketer, Content King, Martech Wizard |
-| 🎨 **Creative Director** | 🚧 Roadmap | Design systems, brand identity, creative workflows | Startup Designer, Brand Architect, Motion Artist, UX Researcher, Creative Technologist |
-| 📊 **Data Scientist** | 🚧 Roadmap | ML pipelines, analytics, data architecture | Research Scientist, ML Engineer, Analytics Lead, Data Architect, AI Product Manager |
-| 🔒 **Cybersecurity Expert** | 🚧 Roadmap | Security audits, threat modeling, compliance | Pentester, Security Architect, CISO, Forensics Expert, Bug Bounty Hunter |
-| ⚖️ **Legal/Compliance** | 🚧 Roadmap | Contracts, regulatory, IP, risk management | Startup Lawyer, Compliance Officer, IP Specialist, Litigator, Regulatory Strategist |
+| 🔧 **[Software Engineer](personas/software-engineer/)** | ✅ Ready | Full-stack, system architecture, scaling | Founding Eng, Principal Arch, Growth Eng, Revenue Lead, Hacker-Disruptor |
+| 📈 **[Marketing Pro](personas/marketing-pro/)** | ✅ Ready | Growth hacking, SEO, performance marketing, content | Growth Hacker, Brand Strategist, Performance Marketer, Content King, Martech Wizard |
+| 🎨 **[Creative Director](personas/creative-director/)** | ✅ Ready | Design systems, brand identity, creative workflows | Startup Designer, Brand Architect, Motion Artist, UX Researcher, Creative Technologist |
+| 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML pipelines, analytics, data architecture | Research Scientist, ML Engineer, Analytics Lead, Data Architect, AI Product Manager |
+| 🔒 **[Cybersecurity Expert](personas/cybersecurity-expert/)** | ✅ Ready | Security audits, threat modeling, compliance | Pentester, Security Architect, CISO, Forensics Expert, Bug Bounty Hunter |
+| 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | ✅ Ready | High-converting websites, CRO, anti-AI-slop | Conversion Optimizer, Trend Hunter, UX Psychologist, E-commerce Architect, Brand Storyteller |
 
 </div>
 
