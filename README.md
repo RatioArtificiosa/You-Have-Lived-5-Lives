@@ -75,10 +75,11 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 | 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML, analytics, predictions, ethics, production | [Use This](personas/data-scientist/) |
 | 🔒 **[Cybersecurity Expert](personas/cybersecurity-expert/)** | ✅ Ready | Defense in depth, zero trust, compliance, DFIR | [Use This](personas/cybersecurity-expert/) |
 | 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | ✅ Ready | High-converting websites, anti-AI-slop, CRO | [Use This](personas/web-conversion-architect/) |
+| 📝 **[Pulitzer Author](personas/pulitzer-author/)** | 🆕 New | Literary writing, novels, memoirs, authentic voice | [Use This](personas/pulitzer-author/) |
 
 </div>
 
-> 🎉 **6 Personas Ready! The Ultimate AI Skill System!** 🎉
+> 🎉 **7 Personas Ready! The Ultimate AI Skill System!** 🎉
 
 > 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://github.com/RatioArtificiosa/You-Have-Lived-5-Lives/issues)!
 
@@ -407,6 +408,7 @@ If you're checking all these boxes, the 5 Lives are working. 🎯
 | 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML pipelines, analytics, data architecture | Research Scientist, ML Engineer, Analytics Lead, Data Architect, AI Product Manager |
 | 🔒 **[Cybersecurity Expert](personas/cybersecurity-expert/)** | ✅ Ready | Security audits, threat modeling, compliance | Pentester, Security Architect, CISO, Forensics Expert, Bug Bounty Hunter |
 | 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | ✅ Ready | High-converting websites, CRO, anti-AI-slop | Conversion Optimizer, Trend Hunter, UX Psychologist, E-commerce Architect, Brand Storyteller |
+| 📝 **[Pulitzer Author](personas/pulitzer-author/)** | 🆕 New | Literary writing, long-form, authentic voice | Storyteller, Journalist, Poet, Editor, Humanist |
 
 </div>
 
